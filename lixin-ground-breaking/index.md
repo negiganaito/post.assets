@@ -1,6 +1,6 @@
 # LỄ KHỞI CÔNG DỰ ÁN NHÀ MÁY DỆT LIXIN VIỆT NAM
 
-**Sáng nay, ngày 07/06/2024, Dự án nhà máy dệt Lixin Việt Nam do Chí Thành làm tổng thầu đã chính thức khởi công xây dựng tại Lô B7.2, Đường C3, KCN Thành Thành Công, Khu phố An Hội, Phường An Hòa, Thị xã Trảng Bàng, Tỉnh Tây Ninh. Đây là lần thứ 2 chủ đầu tư chọn Chí Thành làm tổng thầu thi công.**
+**Sáng nay, ngày 07/06/2024, Dự án nhà máy dệt Lixin Việt Nam do Công ty TNHH Lixin Textiles (Việt Nam) làm chủ đầu tư đã chính thức khởi công xây dựng tại Lô B7.2, Đường C3, KCN Thành Thành Công, Khu phố An Hội, Phường An Hòa, Thị xã Trảng Bàng, Tỉnh Tây Ninh. Đáng chú ý, đây là lần thứ hai mà chủ đầu tư Lixin tin tưởng chọn công ty cổ phần xây dựng công nghiệp Chí Thành (công ty Chí Thành) làm tổng thầu thi công. Sự tin tưởng này thể hiện qua việc Chí Thành đã được giao trọng trách một lần nữa, khẳng định uy tín và năng lực vượt trội của công ty trong lĩnh vực xây dựng các dự án nhà máy công nghiệp.**
 
 <figure class="image">
   <img src="./images/z5516516200473_e0c5b063c57e3b070fa81300f6552eb6.jpg" alt="{{ include.description }}">
@@ -37,7 +37,7 @@ Về phía công ty Chí Thành, ông Lê Xuân Nghĩa - Chủ tịch HĐQT đã
 </figcaption>
 </figure>
 
-Tiếp theo chủ đầu tư cùng công ty Chí Thành đã thực hiện nghi lễ động thổ công trình:
+Tiếp theo, công ty Lixin và công ty Chí Thành đã thực hiện nghi lễ động thổ công trình:
 
 <figure class="image">
   <img src="./images/IMG_4189.JPG" alt="{{ include.description }}">
